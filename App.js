@@ -1,9 +1,9 @@
 import React from "react";
-import { history } from "./src/redux/store/configuration";
+import { history } from "./app/redux/store/configuration";
 import { Router } from "react-router-native";
 import { Provider } from "react-redux";
-import store from "./src/redux/store";
-import { Routes } from "./src/routes";
+import store from "./app/redux/store";
+import { Routes } from "./app/routes";
 
 export default () => {
   return (
