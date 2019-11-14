@@ -1,0 +1,14 @@
+{
+  "title": "Forever Young",
+  "state": {
+    "user": {
+      "gender": null
+    }
+  },
+  "router": {
+    "pathname": "/",
+    "search": "",
+    "queries": {},
+    "hash": ""
+  }
+}
