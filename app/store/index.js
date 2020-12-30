@@ -1,6 +1,6 @@
-import bindListeners from "./store/listeners/bind";
-import configuration from "./store/configuration";
-import { createStore } from "redux";
+import { createStore } from 'redux';
+import bindListeners from './listeners';
+import configuration from './configuration';
 
 const [reducers, enhancers] = configuration;
 

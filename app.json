@@ -3,7 +3,7 @@
     "name": "react native redux thunk with routing and scss boilerplate",
     "slug": "react-native-redux-thunk-with-routing-and-scss-boilerplate",
     "privacy": "public",
-    "sdkVersion": "35.0.0",
+    "sdkVersion": "40.0.0",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",

@@ -1,9 +1,6 @@
 {
-  "title": "Forever Young",
   "state": {
-    "user": {
-      "gender": null
-    }
+    "title": "Remote Desktop"
   },
   "router": {
     "pathname": "/",
